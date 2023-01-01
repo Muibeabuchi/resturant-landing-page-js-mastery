@@ -229,6 +229,12 @@
     min-width: 400px;
     height: 547px;
   }
+
+  .app__gallery-images {
+    width: 100%;
+    max-width: 500px;
+    flex: 2;
+  }
 }
 
 @media screen and (max-width: 1150px) {
